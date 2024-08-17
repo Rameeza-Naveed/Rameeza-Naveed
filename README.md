@@ -1,4 +1,4 @@
-![logo](![wallpaper](https://github.com/user-attachments/assets/359c9250-f646-421a-95b5-caee0b845fd3)
+![logo](![wallpaper](https://github.com/user-attachments/assets/359c9250-f646-421a-95b5-caee0b845fd3))
 
 <h1 align="center">Hi 👋, I'm Rameeza Naveed</h1>
 <h3 align="center">A Passionate Cyber Security expert from Pakistan</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameeza Naveed</h1>
 <h3 align="center">A Passionate Cyber Security expert from Pakistan</h3>
 
-<img align="right" width="400" src="![Uploading image.png…]()">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 

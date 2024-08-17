@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/057ab4f1-a9ae-496d-a455-593cb031a4dc)
+![image](https://github.com/user-attachments/assets/b1dd91db-b180-4e62-bbb2-91f76b469e94)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Rameeza Naveed</h1>
